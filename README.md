@@ -1,4 +1,4 @@
-[nourish-meal-planner(1).html](https://github.com/user-attachments/files/26860495/nourish-meal-planner.1.html)
+[nourish-meal-planner](https://github.com/user-attachments/files/26860495/nourish-meal-planner.1.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
